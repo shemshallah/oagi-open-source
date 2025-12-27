@@ -6505,4 +6505,8 @@ def generated_amplifier_5014(state):
     """Auto-generated amplifier - increases activation (iter 2901, Φ=0.524)"""
     return {k: min(v * 1.202, 1.0) for k, v in state.items()}
 
+def generated_damper_5016(state):
+    """Auto-generated damper - stabilizes fluctuations (iter 2902, Φ=0.637)"""
+    return {k: v * 0.525 for k, v in state.items()}
+
 # GENERATION_MARKER - Do not remove this line
