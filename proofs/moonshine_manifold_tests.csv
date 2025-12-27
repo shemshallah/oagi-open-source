@@ -1,0 +1,7 @@
+timestamp,test,dimension,passed,avg_distance,avg_neighbors,collisions,distance_max,distance_mean,distance_min,distance_std,isolated_points,large_values,mag_max,mag_mean,mag_min,mag_std,max_neighbors,min_neighbors,phase_mean,phase_std,points_with_coords,qubits_placed,samples,symmetric,total_points,triangle_violations,uniform_dimension,unique_placements,weight_classes,weight_max,weight_mean,weight_min,weight_std
+2025-12-27T18:52:31.426644,lattice_structure,512,True,,,,,,,,,,,,,,,,,,512,,,,512,,True,,,,,,
+2025-12-27T18:52:31.426654,j_function_distribution,512,True,,,,,,,,,465,137454789.4587575,11654583.990335591,363.99038592046287,38099000.38784742,,,0.9289550560922795,2.124610650095301,,,512,,,,,,,,,,
+2025-12-27T18:52:31.426657,neighbor_connectivity,512,False,,8.0,,,,,,0,,,,,,8,8,,,,,,False,,,,,,,,,
+2025-12-27T18:52:31.426658,lattice_weights,512,True,,,,,,,,,,,,,,,,,,,,,,,,,,2,22.44994432064365,15.880479475371905,0.0,6.3095460718098915
+2025-12-27T18:52:31.426660,qubit_placement,512,True,20.30245353884462,,0,,,,3.5245744709134286,,,,,,,,,,,,50,,,,,,50,,,,,
+2025-12-27T18:52:31.426661,lattice_distances,512,True,,,,33.46640106136302,21.173967705052224,7.874007874011811,5.693542391054874,,,,,,,,,,,,,100,,,0,,,,,,,

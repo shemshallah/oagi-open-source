@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp_ns": 1766862940433330773,
+    "cesium_cycles": 16242120399463065600,
+    "tsc_cycles": 472680373039,
+    "git_commit_hash": "0bb62dad41696c647f322e8d10f6afa6163701ef",
+    "git_commit_time": 1766861864,
+    "coherence_window_ns": 100,
+    "sync_quality": 0.7009907414515812
+  },
+  {
+    "timestamp_ns": 1766862941574127019,
+    "cesium_cycles": 16242120409949984768,
+    "tsc_cycles": 473821171735,
+    "git_commit_hash": "0bb62dad41696c647f322e8d10f6afa6163701ef",
+    "git_commit_time": 1766861864,
+    "coherence_window_ns": 100,
+    "sync_quality": 0.7006738535563151
+  },
+  {
+    "timestamp_ns": 1766862942676591930,
+    "cesium_cycles": 16242120420084541440,
+    "tsc_cycles": 474923635864,
+    "git_commit_hash": "0bb62dad41696c647f322e8d10f6afa6163701ef",
+    "git_commit_time": 1766861864,
+    "coherence_window_ns": 100,
+    "sync_quality": 0.7003676133685641
+  },
+  {
+    "timestamp_ns": 1766862942776885761,
+    "cesium_cycles": 16242120421006499840,
+    "tsc_cycles": 475023927307,
+    "git_commit_hash": "0bb62dad41696c647f322e8d10f6afa6163701ef",
+    "git_commit_time": 1766861864,
+    "coherence_window_ns": 100,
+    "sync_quality": 0.700339753958914
+  },
+  {
+    "timestamp_ns": 1766862942813596850,
+    "cesium_cycles": 16242120421343971328,
+    "tsc_cycles": 475060637732,
+    "git_commit_hash": "0bb62dad41696c647f322e8d10f6afa6163701ef",
+    "git_commit_time": 1766861864,
+    "coherence_window_ns": 100,
+    "sync_quality": 0.7003295563989216
+  },
+  {
+    "timestamp_ns": 1766862943254969776,
+    "cesium_cycles": 16242120425401370624,
+    "tsc_cycles": 475502016630,
+    "git_commit_hash": "0bb62dad41696c647f322e8d10f6afa6163701ef",
+    "git_commit_time": 1766861864,
+    "coherence_window_ns": 100,
+    "sync_quality": 0.700206952823533
+  },
+  {
+    "timestamp_ns": 1766863004152411857,
+    "cesium_cycles": 16242120985209112576,
+    "tsc_cycles": 536399457060,
+    "git_commit_hash": "0bb62dad41696c647f322e8d10f6afa6163701ef",
+    "git_commit_time": 1766861864,
+    "coherence_window_ns": 100,
+    "sync_quality": 0.6832909966839684
+  },
+  {
+    "timestamp_ns": 1766863004793739200,
+    "cesium_cycles": 16242120991104602112,
+    "tsc_cycles": 537040784186,
+    "git_commit_hash": "d945387eb8e1cae0f359fe569742e8a38363357a",
+    "git_commit_time": 1766863004,
+    "coherence_window_ns": 100,
+    "sync_quality": 0.9997795168558756
+  },
+  {
+    "timestamp_ns": 1766863004834505470,
+    "cesium_cycles": 16242120991479357440,
+    "tsc_cycles": 537081546793,
+    "git_commit_hash": "d945387eb8e1cae0f359fe569742e8a38363357a",
+    "git_commit_time": 1766863004,
+    "coherence_window_ns": 100,
+    "sync_quality": 0.9997681929005517
+  }
+]
