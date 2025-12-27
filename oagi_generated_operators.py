@@ -5031,4 +5031,9 @@ def generated_meta_4287(state):
     factor = 1.200 if total > 4.85 else 0.900
     return {k: v * factor for k, v in state.items()}
 
+def generated_resonator_4290(state):
+    """Auto-generated resonator - creates coherence (iter 2484, Φ=0.364)"""
+    avg = sum(state.values()) / len(state)
+    return {k: v * 0.600 + avg * 0.400 for k, v in state.items()}
+
 # GENERATION_MARKER - Do not remove this line
