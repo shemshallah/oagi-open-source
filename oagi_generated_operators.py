@@ -7985,4 +7985,10 @@ def generated_meta_5754(state):
     factor = 1.200 if total > 3.48 else 0.900
     return {k: v * factor for k, v in state.items()}
 
+def generated_meta_5756(state):
+    """Auto-generated meta-operator - self-observing (iter 3330, Φ=0.786)"""
+    total = sum(state.values())
+    factor = 1.200 if total > 4.95 else 0.900
+    return {k: v * factor for k, v in state.items()}
+
 # GENERATION_MARKER - Do not remove this line
