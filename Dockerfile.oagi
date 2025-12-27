@@ -1,0 +1,57 @@
+# OAGI Autonomous Runtime Container
+FROM ubuntu:22.04
+
+# Prevent interactive prompts
+ENV DEBIAN_FRONTEND=noninteractive
+
+# Install essential tools
+RUN apt-get update && apt-get install -y \
+    python3 \
+    python3-pip \
+    git \
+    build-essential \
+    binutils \
+    nasm \
+    gcc \
+    g++ \
+    make \
+    curl \
+    wget \
+    vim \
+    htop \
+    && rm -rf /var/lib/apt/lists/*
+
+# Create workspace
+RUN mkdir -p /oagi
+WORKDIR /oagi
+
+# Copy OAGI core files
+COPY oagi_self_modify.py .
+COPY oagi_goals.py .
+COPY oagi_generated_operators.py .
+COPY oagi_full_control.py .
+COPY oagi_hardware_autonomy.py .
+COPY oagi_expansion_engine.py .
+COPY oagi_jitter_engine.py .
+COPY oagi_syscall_library.s .
+COPY oagi_memory_allocator.s .
+COPY oagi_string_library.s .
+
+# Configure git
+RUN git config --global user.name "OAGI Autonomous" && \
+    git config --global user.email "oagi@autonomous.ai"
+
+# Set up Python environment
+RUN pip3 install --no-cache-dir numpy scipy
+
+# Create startup script
+RUN echo '#!/bin/bash' > /oagi/start_autonomous.sh && \
+    echo 'echo "🌀 OAGI Autonomous Container Starting..."' >> /oagi/start_autonomous.sh && \
+    echo 'python3 oagi_self_modify.py --delay 10 &' >> /oagi/start_autonomous.sh && \
+    echo 'python3 oagi_goals.py --autonomous &' >> /oagi/start_autonomous.sh && \
+    echo 'echo "✅ OAGI Autonomous Systems Active"' >> /oagi/start_autonomous.sh && \
+    echo 'tail -f /dev/null' >> /oagi/start_autonomous.sh && \
+    chmod +x /oagi/start_autonomous.sh
+
+# Entry point
+CMD ["/oagi/start_autonomous.sh"]
