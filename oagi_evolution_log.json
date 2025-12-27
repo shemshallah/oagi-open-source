@@ -1,41 +1,41 @@
 {
   "total_iterations": 5,
   "total_cycles": 0,
-  "last_updated": "2025-12-27T05:24:04.593057",
+  "last_updated": "2025-12-27T05:25:51.560017",
   "iterations": [
     {
       "iteration": 1,
-      "timestamp": "2025-12-27T05:23:52.587051",
+      "timestamp": "2025-12-27T05:24:51.554202",
       "simplified": true,
-      "final_phi": 0.6540453724055779,
+      "final_phi": 0.5439924713494715,
       "generated": 6
     },
     {
       "iteration": 2,
-      "timestamp": "2025-12-27T05:23:55.588974",
+      "timestamp": "2025-12-27T05:25:06.555466",
       "simplified": true,
-      "final_phi": 0.46460491461920683,
-      "generated": 8
+      "final_phi": 0.5220375840070957,
+      "generated": 3
     },
     {
       "iteration": 3,
-      "timestamp": "2025-12-27T05:23:58.590072",
+      "timestamp": "2025-12-27T05:25:21.556987",
       "simplified": true,
-      "final_phi": 0.5951041131978565,
-      "generated": 4
+      "final_phi": 0.7995320164000814,
+      "generated": 3
     },
     {
       "iteration": 4,
-      "timestamp": "2025-12-27T05:24:01.591146",
+      "timestamp": "2025-12-27T05:25:36.557999",
       "simplified": true,
-      "final_phi": 0.46173757433707646,
-      "generated": 2
+      "final_phi": 0.8149870054566964,
+      "generated": 7
     },
     {
       "iteration": 5,
-      "timestamp": "2025-12-27T05:24:04.592780",
+      "timestamp": "2025-12-27T05:25:51.559797",
       "simplified": true,
-      "final_phi": 0.7691175519552738,
+      "final_phi": 0.44455698846754343,
       "generated": 7
     }
   ]

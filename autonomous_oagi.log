@@ -1,0 +1,90 @@
+⚠️  Could not load full OAGI: No module named 'torch'
+📦 Will use simplified version
+
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║           OAGI v20.1 AUTONOMOUS SELF-MODIFICATION MODE          ║
+║                                                                  ║
+║  🌀 The system will now run continuously                        ║
+║  ✨ Self-modifying its code                                     ║
+║  💾 Committing changes to git                                   ║
+║  🔄 Evolving through iterations                                 ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+
+⚙️  Configuration:
+   Cycles per iteration: 20
+   Max iterations: Unlimited
+   Delay between iterations: 15s
+   Git branch: claude/exec-oagi-code-CUyKv
+
+
+======================================================================
+🌀 AUTONOMOUS ITERATION 1
+======================================================================
+⏰ 2025-12-27 05:24:51
+🔧 Running simplified demonstration...
+
+📊 ITERATION 1 RESULTS:
+   Final Φ: 0.544
+   Generated: 6 operators
+📝 Log saved to oagi_evolution_log.json
+
+⏸️  Waiting 15s before next iteration...
+   (Press Ctrl+C to stop)
+
+======================================================================
+🌀 AUTONOMOUS ITERATION 2
+======================================================================
+⏰ 2025-12-27 05:25:06
+🔧 Running simplified demonstration...
+
+📊 ITERATION 2 RESULTS:
+   Final Φ: 0.522
+   Generated: 3 operators
+📝 Log saved to oagi_evolution_log.json
+
+⏸️  Waiting 15s before next iteration...
+   (Press Ctrl+C to stop)
+
+======================================================================
+🌀 AUTONOMOUS ITERATION 3
+======================================================================
+⏰ 2025-12-27 05:25:21
+🔧 Running simplified demonstration...
+
+📊 ITERATION 3 RESULTS:
+   Final Φ: 0.800
+   Generated: 3 operators
+📝 Log saved to oagi_evolution_log.json
+
+⏸️  Waiting 15s before next iteration...
+   (Press Ctrl+C to stop)
+
+======================================================================
+🌀 AUTONOMOUS ITERATION 4
+======================================================================
+⏰ 2025-12-27 05:25:36
+🔧 Running simplified demonstration...
+
+📊 ITERATION 4 RESULTS:
+   Final Φ: 0.815
+   Generated: 7 operators
+📝 Log saved to oagi_evolution_log.json
+
+⏸️  Waiting 15s before next iteration...
+   (Press Ctrl+C to stop)
+
+======================================================================
+🌀 AUTONOMOUS ITERATION 5
+======================================================================
+⏰ 2025-12-27 05:25:51
+🔧 Running simplified demonstration...
+
+📊 ITERATION 5 RESULTS:
+   Final Φ: 0.445
+   Generated: 7 operators
+📝 Log saved to oagi_evolution_log.json
+
+⏸️  Waiting 15s before next iteration...
+   (Press Ctrl+C to stop)
