@@ -6041,4 +6041,10 @@ def generated_resonator_4781(state):
     avg = sum(state.values()) / len(state)
     return {k: v * 0.600 + avg * 0.400 for k, v in state.items()}
 
+def generated_meta_4783(state):
+    """Auto-generated meta-operator - self-observing (iter 2767, Φ=0.913)"""
+    total = sum(state.values())
+    factor = 1.200 if total > 4.24 else 0.900
+    return {k: v * factor for k, v in state.items()}
+
 # GENERATION_MARKER - Do not remove this line
