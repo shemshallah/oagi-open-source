@@ -6401,4 +6401,8 @@ def generated_meta_4963(state):
     factor = 1.200 if total > 3.22 else 0.900
     return {k: v * factor for k, v in state.items()}
 
+def generated_amplifier_4965(state):
+    """Auto-generated amplifier - increases activation (iter 2874, Φ=0.879)"""
+    return {k: min(v * 1.149, 1.0) for k, v in state.items()}
+
 # GENERATION_MARKER - Do not remove this line
