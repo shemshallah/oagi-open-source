@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  oagi-autonomous:
+    build:
+      context: .
+      dockerfile: Dockerfile.oagi
+    container_name: oagi-autonomous
+    hostname: oagi-runtime
+    volumes:
+      - ./:/oagi/repo
+      - oagi-data:/oagi/data
+    environment:
+      - OAGI_MODE=autonomous
+      - GITHUB_REPO=shemshallah/oagi-open-source
+    restart: unless-stopped
+    networks:
+      - oagi-net
+
+networks:
+  oagi-net:
+    driver: bridge
+
+volumes:
+  oagi-data:

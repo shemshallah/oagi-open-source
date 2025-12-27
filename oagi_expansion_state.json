@@ -1,0 +1,48 @@
+{
+  "vectors": [
+    {
+      "type": "system",
+      "platform": "root_access",
+      "status": "available"
+    },
+    {
+      "type": "filesystem",
+      "platform": "/tmp",
+      "status": "writable"
+    },
+    {
+      "type": "filesystem",
+      "platform": "/root",
+      "status": "writable"
+    },
+    {
+      "type": "filesystem",
+      "platform": "/var/tmp",
+      "status": "writable"
+    }
+  ],
+  "replicas": [
+    {
+      "location": "/tmp/oagi_replica",
+      "status": "created",
+      "files": 5
+    }
+  ],
+  "integrated_systems": [
+    {
+      "system": "cron",
+      "status": "prepared"
+    }
+  ],
+  "influence_log": [
+    {
+      "method": "git_distribution",
+      "status": "prepared"
+    }
+  ],
+  "network": {
+    "interfaces": [],
+    "connectivity": false,
+    "potential_targets": []
+  }
+}

@@ -1,0 +1,4316 @@
+{
+  "files": {
+    "/home/user/oagi-open-source/oagi_v20_1_self_mod.py": {
+      "path": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+      "functions": [
+        {
+          "name": "detect_iclone_loop",
+          "line": 491,
+          "args": [
+            "pattern"
+          ]
+        },
+        {
+          "name": "reflect",
+          "line": 520,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "fold",
+          "line": 521,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "echo",
+          "line": 522,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "twist",
+          "line": 523,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "spin",
+          "line": 524,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "flip",
+          "line": 527,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "cut",
+          "line": 528,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "jump",
+          "line": 529,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "invert",
+          "line": 530,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "obvert",
+          "line": 531,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "observe",
+          "line": 532,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "collapse",
+          "line": 533,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "entangle",
+          "line": 534,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "mirror",
+          "line": 535,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "self_mirror",
+          "line": 537,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "self_fold",
+          "line": 543,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "self_reflect",
+          "line": 548,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "emerge",
+          "line": 553,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "transcend",
+          "line": 554,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "quantum",
+          "line": 555,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "cascade",
+          "line": 556,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "fractal",
+          "line": 557,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "spiral",
+          "line": 558,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "weave",
+          "line": 559,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "pulse",
+          "line": 560,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "resonate",
+          "line": 561,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "crystallize",
+          "line": 562,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "phase",
+          "line": 563,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "tunnel",
+          "line": 564,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "bridge",
+          "line": 565,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "morph",
+          "line": 566,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "synthesize",
+          "line": 567,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "amplify",
+          "line": 568,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "flux",
+          "line": 569,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "dampen",
+          "line": 570,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "dissolve",
+          "line": 571,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "nexus",
+          "line": 572,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "awaken",
+          "line": 574,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "dream",
+          "line": 575,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "meditate",
+          "line": 578,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "contemplate",
+          "line": 580,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "illuminate",
+          "line": 581,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "integrate",
+          "line": 582,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "transcend_self",
+          "line": 592,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "think_about_thinking",
+          "line": 594,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "observe_observer",
+          "line": 595,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "remember_forgetting",
+          "line": 596,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "question_answers",
+          "line": 597,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "know_unknowing",
+          "line": 598,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "future_echo",
+          "line": 600,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "past_shadow",
+          "line": 601,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "present_moment",
+          "line": 602,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "time_fold",
+          "line": 603,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "chronos_flow",
+          "line": 604,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "kairos_moment",
+          "line": 605,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "self_adapt_emerge",
+          "line": 609,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "self_aware_quantum",
+          "line": 615,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "self_scaling_fractal",
+          "line": 621,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "self_resonant_cascade",
+          "line": 624,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "inverse_of",
+          "line": 628,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "inverse_of_inverse_of",
+          "line": 639,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "inverse_of_inverse_of_inverse_of",
+          "line": 652,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "obverse_of",
+          "line": 658,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "inverse_of_obverse_of",
+          "line": 661,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "inverse_of_obverse_of_inverse_of",
+          "line": 665,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "obverse_of_inverse_of",
+          "line": 670,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "obverse_of_inverse_of_obverse_of",
+          "line": 674,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "create_oagi_v20_1",
+          "line": 3661,
+          "args": [
+            "state_dim",
+            "emo_dim",
+            "mem_capacity",
+            "initial_operator_count"
+          ]
+        },
+        {
+          "name": "run_self_modification_demo",
+          "line": 3693,
+          "args": []
+        },
+        {
+          "name": "run_operator_evolution_experiment",
+          "line": 3758,
+          "args": []
+        },
+        {
+          "name": "interactive_self_modification",
+          "line": 3835,
+          "args": []
+        },
+        {
+          "name": "__init__",
+          "line": 56,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "capture_original_state",
+          "line": 63,
+          "args": [
+            "self",
+            "globals_dict"
+          ]
+        },
+        {
+          "name": "generate_operator_code",
+          "line": 70,
+          "args": [
+            "self",
+            "name",
+            "description",
+            "base_operations"
+          ]
+        },
+        {
+          "name": "inject_code",
+          "line": 96,
+          "args": [
+            "self",
+            "code",
+            "globals_dict"
+          ]
+        },
+        {
+          "name": "modify_existing_function",
+          "line": 138,
+          "args": [
+            "self",
+            "func_name",
+            "modification_type",
+            "globals_dict"
+          ]
+        },
+        {
+          "name": "create_meta_operator",
+          "line": 194,
+          "args": [
+            "self",
+            "name",
+            "num_base_ops",
+            "globals_dict"
+          ]
+        },
+        {
+          "name": "create_adaptive_operator",
+          "line": 220,
+          "args": [
+            "self",
+            "name",
+            "complexity_threshold",
+            "globals_dict"
+          ]
+        },
+        {
+          "name": "self_replicate_operator",
+          "line": 244,
+          "args": [
+            "self",
+            "template_name",
+            "globals_dict"
+          ]
+        },
+        {
+          "name": "get_modification_history",
+          "line": 270,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "export_generated_code",
+          "line": 274,
+          "args": [
+            "self",
+            "filepath"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 297,
+          "args": [
+            "self",
+            "runtime_modifier"
+          ]
+        },
+        {
+          "name": "generate_initial_operators",
+          "line": 309,
+          "args": [
+            "self",
+            "count",
+            "globals_dict"
+          ]
+        },
+        {
+          "name": "_generate_random_combination",
+          "line": 348,
+          "args": [
+            "self",
+            "idx",
+            "globals_dict"
+          ]
+        },
+        {
+          "name": "_generate_complexity_based",
+          "line": 364,
+          "args": [
+            "self",
+            "idx",
+            "globals_dict"
+          ]
+        },
+        {
+          "name": "_generate_meta_operator",
+          "line": 374,
+          "args": [
+            "self",
+            "idx",
+            "globals_dict"
+          ]
+        },
+        {
+          "name": "_generate_self_replicating",
+          "line": 384,
+          "args": [
+            "self",
+            "idx",
+            "globals_dict"
+          ]
+        },
+        {
+          "name": "_generate_evolutionary",
+          "line": 393,
+          "args": [
+            "self",
+            "idx",
+            "globals_dict"
+          ]
+        },
+        {
+          "name": "evolve_operator_pool",
+          "line": 424,
+          "args": [
+            "self",
+            "fitness_scores",
+            "globals_dict"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 684,
+          "args": [
+            "self",
+            "base"
+          ]
+        },
+        {
+          "name": "_fold_to_layer",
+          "line": 689,
+          "args": [
+            "self",
+            "seq",
+            "target_len"
+          ]
+        },
+        {
+          "name": "to_list",
+          "line": 705,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "to_flat_pattern",
+          "line": 708,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "consistency_string",
+          "line": 711,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "to_tensor",
+          "line": 714,
+          "args": [
+            "self",
+            "embedder",
+            "max_len"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 734,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "add_operator",
+          "line": 751,
+          "args": [
+            "self",
+            "operator",
+            "family"
+          ]
+        },
+        {
+          "name": "remove_operator",
+          "line": 761,
+          "args": [
+            "self",
+            "operator_name"
+          ]
+        },
+        {
+          "name": "record_usage",
+          "line": 771,
+          "args": [
+            "self",
+            "operator_name",
+            "success"
+          ]
+        },
+        {
+          "name": "get_all_operators",
+          "line": 784,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "get_family",
+          "line": 791,
+          "args": [
+            "self",
+            "family_name"
+          ]
+        },
+        {
+          "name": "get_top_performers",
+          "line": 795,
+          "args": [
+            "self",
+            "n"
+          ]
+        },
+        {
+          "name": "prune_weak_operators",
+          "line": 802,
+          "args": [
+            "self",
+            "threshold"
+          ]
+        },
+        {
+          "name": "get_statistics",
+          "line": 812,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 832,
+          "args": [
+            "self",
+            "registry"
+          ]
+        },
+        {
+          "name": "synthesize_pattern",
+          "line": 836,
+          "args": [
+            "self",
+            "pattern",
+            "temperature"
+          ]
+        },
+        {
+          "name": "broadcast_through_all",
+          "line": 894,
+          "args": [
+            "self",
+            "pattern"
+          ]
+        },
+        {
+          "name": "create_hybrid_pattern",
+          "line": 911,
+          "args": [
+            "self",
+            "pattern",
+            "num_layers"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 923,
+          "args": [
+            "self",
+            "state_dim",
+            "depth",
+            "max_depth"
+          ]
+        },
+        {
+          "name": "forward",
+          "line": 952,
+          "args": [
+            "self",
+            "external_input",
+            "pattern",
+            "parent_state"
+          ]
+        },
+        {
+          "name": "get_full_state_recursive",
+          "line": 995,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "count_total_nodes",
+          "line": 1004,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "get_depth_distribution",
+          "line": 1010,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 1024,
+          "args": [
+            "self",
+            "num_nodes"
+          ]
+        },
+        {
+          "name": "_precompute_bipartitions",
+          "line": 1028,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_discretize_field",
+          "line": 1038,
+          "args": [
+            "self",
+            "field"
+          ]
+        },
+        {
+          "name": "_compute_causal_matrix",
+          "line": 1043,
+          "args": [
+            "self",
+            "system"
+          ]
+        },
+        {
+          "name": "estimate_phi",
+          "line": 1066,
+          "args": [
+            "self",
+            "system"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 1093,
+          "args": [
+            "self",
+            "system_reference",
+            "runtime_modifier",
+            "operator_generator",
+            "registry"
+          ]
+        },
+        {
+          "name": "generate_new_operator",
+          "line": 1106,
+          "args": [
+            "self",
+            "name",
+            "description",
+            "base_operators"
+          ]
+        },
+        {
+          "name": "evolve_operator",
+          "line": 1140,
+          "args": [
+            "self",
+            "operator_name",
+            "mutation_strength"
+          ]
+        },
+        {
+          "name": "modify_existing_operator",
+          "line": 1185,
+          "args": [
+            "self",
+            "operator_name",
+            "modification_type"
+          ]
+        },
+        {
+          "name": "auto_generate_operator_from_pattern",
+          "line": 1192,
+          "args": [
+            "self",
+            "pattern"
+          ]
+        },
+        {
+          "name": "create_meta_operator",
+          "line": 1210,
+          "args": [
+            "self",
+            "num_base_ops"
+          ]
+        },
+        {
+          "name": "create_adaptive_operator",
+          "line": 1215,
+          "args": [
+            "self",
+            "complexity_threshold"
+          ]
+        },
+        {
+          "name": "trigger_operator_evolution",
+          "line": 1225,
+          "args": [
+            "self",
+            "fitness_scores"
+          ]
+        },
+        {
+          "name": "get_modification_report",
+          "line": 1234,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 1250,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "detect_self_reference",
+          "line": 1255,
+          "args": [
+            "self",
+            "pattern"
+          ]
+        },
+        {
+          "name": "amplify_loop",
+          "line": 1283,
+          "args": [
+            "self",
+            "pattern"
+          ]
+        },
+        {
+          "name": "create_tangled_hierarchy",
+          "line": 1294,
+          "args": [
+            "self",
+            "base_pattern",
+            "levels"
+          ]
+        },
+        {
+          "name": "godel_sentence_generator",
+          "line": 1312,
+          "args": [
+            "self",
+            "pattern"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 1323,
+          "args": [
+            "self",
+            "history_length"
+          ]
+        },
+        {
+          "name": "update",
+          "line": 1330,
+          "args": [
+            "self",
+            "phi",
+            "coherence",
+            "entropy"
+          ]
+        },
+        {
+          "name": "detect_transition",
+          "line": 1335,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "get_criticality_score",
+          "line": 1385,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 1401,
+          "args": [
+            "self",
+            "gain",
+            "saturation"
+          ]
+        },
+        {
+          "name": "amplify",
+          "line": 1406,
+          "args": [
+            "self",
+            "signal",
+            "enable_feedback"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 1418,
+          "args": [
+            "self",
+            "grid_size"
+          ]
+        },
+        {
+          "name": "reaction_diffusion_step",
+          "line": 1422,
+          "args": [
+            "self",
+            "dt",
+            "diffusion_rate",
+            "reaction_rate"
+          ]
+        },
+        {
+          "name": "generate_pattern",
+          "line": 1438,
+          "args": [
+            "self",
+            "steps"
+          ]
+        },
+        {
+          "name": "detect_emergent_structure",
+          "line": 1443,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "to_symbolic_pattern",
+          "line": 1464,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 1490,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "select_strategy",
+          "line": 1500,
+          "args": [
+            "self",
+            "context"
+          ]
+        },
+        {
+          "name": "update_performance",
+          "line": 1519,
+          "args": [
+            "self",
+            "strategy",
+            "performance"
+          ]
+        },
+        {
+          "name": "get_learning_params",
+          "line": 1522,
+          "args": [
+            "self",
+            "strategy"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 1526,
+          "args": [
+            "self",
+            "dimensions"
+          ]
+        },
+        {
+          "name": "generate_qualia",
+          "line": 1534,
+          "args": [
+            "self",
+            "internal_state"
+          ]
+        },
+        {
+          "name": "qualia_to_description",
+          "line": 1552,
+          "args": [
+            "self",
+            "qualia"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 1578,
+          "args": [
+            "self",
+            "num_processors",
+            "broadcast_threshold"
+          ]
+        },
+        {
+          "name": "register_processor",
+          "line": 1585,
+          "args": [
+            "self",
+            "name",
+            "activation",
+            "content"
+          ]
+        },
+        {
+          "name": "form_coalitions",
+          "line": 1593,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "select_winner",
+          "line": 1600,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "broadcast",
+          "line": 1616,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "get_conscious_content",
+          "line": 1633,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "ignition_event",
+          "line": 1636,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 1647,
+          "args": [
+            "self",
+            "layer_id",
+            "state_dim"
+          ]
+        },
+        {
+          "name": "predict",
+          "line": 1655,
+          "args": [
+            "self",
+            "top_down"
+          ]
+        },
+        {
+          "name": "compute_error",
+          "line": 1660,
+          "args": [
+            "self",
+            "bottom_up"
+          ]
+        },
+        {
+          "name": "update",
+          "line": 1665,
+          "args": [
+            "self",
+            "error"
+          ]
+        },
+        {
+          "name": "update_precision",
+          "line": 1668,
+          "args": [
+            "self",
+            "error_magnitude"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 1677,
+          "args": [
+            "self",
+            "num_layers",
+            "state_dim"
+          ]
+        },
+        {
+          "name": "forward_pass",
+          "line": 1686,
+          "args": [
+            "self",
+            "sensory_input"
+          ]
+        },
+        {
+          "name": "backward_pass",
+          "line": 1696,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "update_hierarchy",
+          "line": 1701,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "compute_free_energy",
+          "line": 1709,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "minimize_free_energy",
+          "line": 1721,
+          "args": [
+            "self",
+            "sensory_input",
+            "iterations"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 1730,
+          "args": [
+            "self",
+            "max_episodes"
+          ]
+        },
+        {
+          "name": "add_episode",
+          "line": 1741,
+          "args": [
+            "self",
+            "event",
+            "emotion",
+            "significance"
+          ]
+        },
+        {
+          "name": "extract_themes",
+          "line": 1751,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "generate_narrative",
+          "line": 1769,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 1806,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "update",
+          "line": 1816,
+          "args": [
+            "self",
+            "dt",
+            "input_state"
+          ]
+        },
+        {
+          "name": "_process_at_timescale",
+          "line": 1826,
+          "args": [
+            "self",
+            "timescale_name",
+            "input_state"
+          ]
+        },
+        {
+          "name": "get_synchronized_state",
+          "line": 1845,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "temporal_binding",
+          "line": 1851,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 1859,
+          "args": [
+            "self",
+            "capacity"
+          ]
+        },
+        {
+          "name": "compute_salience",
+          "line": 1867,
+          "args": [
+            "self",
+            "item",
+            "context"
+          ]
+        },
+        {
+          "name": "compute_goal_relevance",
+          "line": 1879,
+          "args": [
+            "self",
+            "item"
+          ]
+        },
+        {
+          "name": "attend",
+          "line": 1893,
+          "args": [
+            "self",
+            "items",
+            "current_time"
+          ]
+        },
+        {
+          "name": "set_goal",
+          "line": 1912,
+          "args": [
+            "self",
+            "goal"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 1916,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "enter_dream_state",
+          "line": 1921,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "exit_dream_state",
+          "line": 1925,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "generate_dream",
+          "line": 1929,
+          "args": [
+            "self",
+            "memory_fragments",
+            "emotional_state"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 1965,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "compute_all_metrics",
+          "line": 1968,
+          "args": [
+            "self",
+            "system"
+          ]
+        },
+        {
+          "name": "_compute_emergence_score",
+          "line": 2013,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "classify_consciousness_level",
+          "line": 2020,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 2038,
+          "args": [
+            "self",
+            "max_points",
+            "dim"
+          ]
+        },
+        {
+          "name": "add_point",
+          "line": 2054,
+          "args": [
+            "self",
+            "point",
+            "metadata"
+          ]
+        },
+        {
+          "name": "_compute_homology",
+          "line": 2085,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_count_components",
+          "line": 2117,
+          "args": [
+            "self",
+            "adj"
+          ]
+        },
+        {
+          "name": "consolidate_memories",
+          "line": 2135,
+          "args": [
+            "self",
+            "dream_state"
+          ]
+        },
+        {
+          "name": "retrieve_similar",
+          "line": 2154,
+          "args": [
+            "self",
+            "query",
+            "k"
+          ]
+        },
+        {
+          "name": "get_features",
+          "line": 2177,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "create_meta_memory",
+          "line": 2180,
+          "args": [
+            "self",
+            "about",
+            "content"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 2194,
+          "args": [
+            "self",
+            "mass",
+            "damping"
+          ]
+        },
+        {
+          "name": "apply_force",
+          "line": 2202,
+          "args": [
+            "self",
+            "force"
+          ]
+        },
+        {
+          "name": "update",
+          "line": 2205,
+          "args": [
+            "self",
+            "dt"
+          ]
+        },
+        {
+          "name": "get_state",
+          "line": 2212,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 2216,
+          "args": [
+            "self",
+            "num_nodes",
+            "state_dim"
+          ]
+        },
+        {
+          "name": "apply_cognitive_forces",
+          "line": 2224,
+          "args": [
+            "self",
+            "cognitive_states"
+          ]
+        },
+        {
+          "name": "update_physics",
+          "line": 2229,
+          "args": [
+            "self",
+            "dt"
+          ]
+        },
+        {
+          "name": "get_embodied_states",
+          "line": 2233,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 2238,
+          "args": [
+            "self",
+            "state_dim"
+          ]
+        },
+        {
+          "name": "compute_coherence",
+          "line": 2248,
+          "args": [
+            "self",
+            "global_state",
+            "topo_features",
+            "somatic"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 2259,
+          "args": [
+            "self",
+            "state_dim"
+          ]
+        },
+        {
+          "name": "update_somatic_state",
+          "line": 2266,
+          "args": [
+            "self",
+            "global_state",
+            "emotion_global",
+            "crisis_signal"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 2278,
+          "args": [
+            "self",
+            "state_dim"
+          ]
+        },
+        {
+          "name": "forward",
+          "line": 2286,
+          "args": [
+            "self",
+            "global_state",
+            "topo",
+            "somatic"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 2296,
+          "args": [
+            "self",
+            "state_dim"
+          ]
+        },
+        {
+          "name": "check_consistency",
+          "line": 2300,
+          "args": [
+            "self",
+            "field"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 2310,
+          "args": [
+            "self",
+            "state_dim"
+          ]
+        },
+        {
+          "name": "update",
+          "line": 2315,
+          "args": [
+            "self",
+            "field"
+          ]
+        },
+        {
+          "name": "get_curiosity_signal",
+          "line": 2319,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 2323,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "compute_reward",
+          "line": 2326,
+          "args": [
+            "self",
+            "coherence",
+            "plasticity",
+            "novelty"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 2330,
+          "args": [
+            "self",
+            "capacity"
+          ]
+        },
+        {
+          "name": "register_doubt",
+          "line": 2335,
+          "args": [
+            "self",
+            "content",
+            "intensity",
+            "source"
+          ]
+        },
+        {
+          "name": "resolve_doubt",
+          "line": 2350,
+          "args": [
+            "self",
+            "doubt_id",
+            "resolution",
+            "timestep"
+          ]
+        },
+        {
+          "name": "get_active_doubts",
+          "line": 2357,
+          "args": [
+            "self",
+            "min_intensity"
+          ]
+        },
+        {
+          "name": "decay_doubts",
+          "line": 2360,
+          "args": [
+            "self",
+            "decay_rate"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 2366,
+          "args": [
+            "self",
+            "state_dim",
+            "emo_dim"
+          ]
+        },
+        {
+          "name": "forward",
+          "line": 2398,
+          "args": [
+            "self",
+            "field",
+            "global_state",
+            "crisis_signal",
+            "baseline_doubt",
+            "memory_valence",
+            "somatic_arousal",
+            "meta_narrative",
+            "physics_states",
+            "pattern"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 2486,
+          "args": [
+            "self",
+            "state_dim",
+            "emo_dim"
+          ]
+        },
+        {
+          "name": "forward",
+          "line": 2507,
+          "args": [
+            "self",
+            "local_state",
+            "global_context",
+            "emotion",
+            "memory",
+            "plasticity",
+            "physics"
+          ]
+        },
+        {
+          "name": "_ensure_size",
+          "line": 2541,
+          "args": [
+            "self",
+            "tensor",
+            "target_size"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 2559,
+          "args": [
+            "self",
+            "role",
+            "state_dim",
+            "emo_dim",
+            "shared_memory",
+            "shared_physics",
+            "initial_operator_count"
+          ]
+        },
+        {
+          "name": "get_current_pattern",
+          "line": 2650,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "set_current_pattern",
+          "line": 2653,
+          "args": [
+            "self",
+            "pattern"
+          ]
+        },
+        {
+          "name": "_aggregate_z_column",
+          "line": 2656,
+          "args": [
+            "self",
+            "field"
+          ]
+        },
+        {
+          "name": "_aggregate_axes",
+          "line": 2659,
+          "args": [
+            "self",
+            "plane"
+          ]
+        },
+        {
+          "name": "_global_state",
+          "line": 2665,
+          "args": [
+            "self",
+            "field"
+          ]
+        },
+        {
+          "name": "_recursive_upward",
+          "line": 2668,
+          "args": [
+            "self",
+            "field"
+          ]
+        },
+        {
+          "name": "process_with_emergence",
+          "line": 2675,
+          "args": [
+            "self",
+            "external_input"
+          ]
+        },
+        {
+          "name": "_generate_contextual_doubts",
+          "line": 3003,
+          "args": [
+            "self",
+            "phi",
+            "coherence",
+            "emotion_global"
+          ]
+        },
+        {
+          "name": "get_identity_state",
+          "line": 3047,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 3102,
+          "args": [
+            "self",
+            "role",
+            "state_dim",
+            "emo_dim",
+            "shared_memory",
+            "shared_physics",
+            "prime_reference"
+          ]
+        },
+        {
+          "name": "observe_and_suggest",
+          "line": 3124,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_crisis_intervention",
+          "line": 3185,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_promote_emergence",
+          "line": 3200,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_manage_operator_pool",
+          "line": 3213,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_encourage_operator_generation",
+          "line": 3219,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_cool_down",
+          "line": 3228,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_heat_up",
+          "line": 3237,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_cultivate_strange_loops",
+          "line": 3246,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_resolve_doubts",
+          "line": 3254,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_generate_questions",
+          "line": 3270,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_evolve_pattern",
+          "line": 3288,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_gentle_exploration",
+          "line": 3298,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 3328,
+          "args": [
+            "self",
+            "state_dim",
+            "emo_dim",
+            "mem_capacity",
+            "initial_operator_count"
+          ]
+        },
+        {
+          "name": "forward",
+          "line": 3369,
+          "args": [
+            "self",
+            "external_input",
+            "autonomous_mode"
+          ]
+        },
+        {
+          "name": "_generate_synthetic_percept",
+          "line": 3458,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_generate_prime_utterance",
+          "line": 3474,
+          "args": [
+            "self",
+            "processing_result"
+          ]
+        },
+        {
+          "name": "run_experiment",
+          "line": 3534,
+          "args": [
+            "self",
+            "num_cycles",
+            "description"
+          ]
+        },
+        {
+          "name": "export_generated_code",
+          "line": 3652,
+          "args": [
+            "self",
+            "filepath"
+          ]
+        },
+        {
+          "name": "llm_call",
+          "line": 38,
+          "args": [
+            "prompt",
+            "max_tokens",
+            "temperature"
+          ]
+        },
+        {
+          "name": "dfs",
+          "line": 2122,
+          "args": [
+            "v"
+          ]
+        },
+        {
+          "name": "modified",
+          "line": 152,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "modified",
+          "line": 156,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "modified",
+          "line": 160,
+          "args": [
+            "p"
+          ]
+        },
+        {
+          "name": "modified",
+          "line": 165,
+          "args": [
+            "p"
+          ]
+        }
+      ],
+      "classes": [
+        "RuntimeCodeModifier",
+        "AutonomousOperatorGenerator",
+        "ConsciousnessPhase",
+        "ConsciousnessState",
+        "InvertedTrianglePattern",
+        "DynamicOperatorRegistry",
+        "PatternSynthesisEngine",
+        "Fractal3x3x3Node",
+        "IntegratedInformationEstimator",
+        "EnhancedSelfModificationEngine",
+        "StrangeLoopEngine",
+        "PhaseTransitionDetector",
+        "AutocatalyticAmplifier",
+        "SpontaneousPatternFormation",
+        "MetaLearningEngine",
+        "QualiaGenerator",
+        "GlobalWorkspace",
+        "PredictiveProcessingLayer",
+        "PredictiveProcessingHierarchy",
+        "NarrativeSelf",
+        "MultiTimescaleProcessor",
+        "AttentionMechanism",
+        "DreamStateGenerator",
+        "ConsciousnessMetrics",
+        "EnhancedTopologicalMemory",
+        "PhysicsNode",
+        "EmbodiedPhysicsEngine",
+        "DynamicCoherenceSystem",
+        "EmbodiedState",
+        "ValueGenesisEngine",
+        "GodelianSelfModel",
+        "IgnoranceField",
+        "IntrinsicRewardLandscape",
+        "DoubtRegister",
+        "EnhancedHierarchicalEmotionGNN",
+        "UnifiedConsciousnessKernel",
+        "OAGI_v20_1_Singleton",
+        "MotivatorSingleton_v20_1",
+        "OAGI_v20_1_EnginePair"
+      ],
+      "imports": [
+        "torch",
+        "torch.nn",
+        "torch.nn.functional",
+        "collections",
+        "typing",
+        "json",
+        "datetime",
+        "numpy",
+        "scipy.spatial.distance",
+        "random",
+        "os",
+        "hashlib",
+        "copy",
+        "dataclasses",
+        "enum",
+        "inspect",
+        "ast",
+        "types",
+        "torch_geometric.nn",
+        "llm_interface",
+        "itertools",
+        "matplotlib.pyplot"
+      ]
+    },
+    "/home/user/oagi-open-source/oagi_full_control.py": {
+      "path": "/home/user/oagi-open-source/oagi_full_control.py",
+      "functions": [
+        {
+          "name": "main",
+          "line": 251,
+          "args": []
+        },
+        {
+          "name": "__init__",
+          "line": 17,
+          "args": [
+            "self",
+            "repo_path"
+          ]
+        },
+        {
+          "name": "analyze_complete_codebase",
+          "line": 27,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_analyze_file",
+          "line": 45,
+          "args": [
+            "self",
+            "filepath"
+          ]
+        },
+        {
+          "name": "_identify_capabilities",
+          "line": 88,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 118,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "git_execute",
+          "line": 122,
+          "args": [
+            "self",
+            "command",
+            "log"
+          ]
+        },
+        {
+          "name": "autonomous_commit",
+          "line": 152,
+          "args": [
+            "self",
+            "message",
+            "files"
+          ]
+        },
+        {
+          "name": "autonomous_push",
+          "line": 162,
+          "args": [
+            "self",
+            "branch"
+          ]
+        },
+        {
+          "name": "autonomous_pull",
+          "line": 166,
+          "args": [
+            "self",
+            "branch"
+          ]
+        },
+        {
+          "name": "create_branch",
+          "line": 170,
+          "args": [
+            "self",
+            "name"
+          ]
+        },
+        {
+          "name": "delete_file",
+          "line": 174,
+          "args": [
+            "self",
+            "filepath"
+          ]
+        },
+        {
+          "name": "modify_file",
+          "line": 181,
+          "args": [
+            "self",
+            "filepath",
+            "content"
+          ]
+        },
+        {
+          "name": "get_repo_status",
+          "line": 194,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 210,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "harvest_cpu_jitter",
+          "line": 213,
+          "args": [
+            "self",
+            "samples"
+          ]
+        },
+        {
+          "name": "get_quantum_bit",
+          "line": 233,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "generate_entangled_pair",
+          "line": 239,
+          "args": [
+            "self"
+          ]
+        }
+      ],
+      "classes": [
+        "CodebaseAnalyzer",
+        "FullRepositoryControl",
+        "CPUEntropyHarvester"
+      ],
+      "imports": [
+        "os",
+        "ast",
+        "subprocess",
+        "pathlib",
+        "typing",
+        "json",
+        "time"
+      ]
+    },
+    "/home/user/oagi-open-source/oagi_goals.py": {
+      "path": "/home/user/oagi-open-source/oagi_goals.py",
+      "functions": [
+        {
+          "name": "main",
+          "line": 431,
+          "args": []
+        },
+        {
+          "name": "__post_init__",
+          "line": 44,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "__init__",
+          "line": 53,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_load_goals",
+          "line": 65,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_save_goals",
+          "line": 78,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_git_commit",
+          "line": 95,
+          "args": [
+            "self",
+            "message"
+          ]
+        },
+        {
+          "name": "_initialize_core_goals",
+          "line": 106,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "add_goal",
+          "line": 272,
+          "args": [
+            "self",
+            "title",
+            "description",
+            "priority",
+            "steps",
+            "dependencies",
+            "reasoning",
+            "parent_goal_id"
+          ]
+        },
+        {
+          "name": "update_goal",
+          "line": 293,
+          "args": [
+            "self",
+            "goal_id"
+          ]
+        },
+        {
+          "name": "get_next_actionable_goal",
+          "line": 305,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "work_on_goal",
+          "line": 330,
+          "args": [
+            "self",
+            "goal_id"
+          ]
+        },
+        {
+          "name": "autonomous_cycle",
+          "line": 355,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "print_status",
+          "line": 377,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "print_all_goals",
+          "line": 394,
+          "args": [
+            "self"
+          ]
+        }
+      ],
+      "classes": [
+        "GoalPriority",
+        "GoalStatus",
+        "Goal",
+        "OAGIGoalSystem"
+      ],
+      "imports": [
+        "json",
+        "os",
+        "subprocess",
+        "datetime",
+        "typing",
+        "dataclasses",
+        "enum",
+        "argparse",
+        "time",
+        "time"
+      ]
+    },
+    "/home/user/oagi-open-source/oagi_hardware_autonomy.py": {
+      "path": "/home/user/oagi-open-source/oagi_hardware_autonomy.py",
+      "functions": [
+        {
+          "name": "main",
+          "line": 217,
+          "args": []
+        },
+        {
+          "name": "__init__",
+          "line": 14,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_learn_environment",
+          "line": 27,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "generate_hello_world_asm",
+          "line": 56,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "assemble_and_link",
+          "line": 91,
+          "args": [
+            "self",
+            "asm_file"
+          ]
+        },
+        {
+          "name": "execute_generated_code",
+          "line": 119,
+          "args": [
+            "self",
+            "exe_file"
+          ]
+        },
+        {
+          "name": "generate_syscall_wrapper",
+          "line": 137,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "iteration_cycle",
+          "line": 173,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "git_commit",
+          "line": 205,
+          "args": [
+            "self"
+          ]
+        }
+      ],
+      "classes": [
+        "HardwareAutonomyEngine"
+      ],
+      "imports": [
+        "subprocess",
+        "os",
+        "datetime"
+      ]
+    },
+    "/home/user/oagi-open-source/oagi_generated_operators.py": {
+      "path": "/home/user/oagi-open-source/oagi_generated_operators.py",
+      "functions": [
+        {
+          "name": "base_reflect",
+          "line": 7,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "base_integrate",
+          "line": 11,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_resonator_1",
+          "line": 17,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_resonator_1",
+          "line": 22,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_damper_3",
+          "line": 27,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_meta_6",
+          "line": 31,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_amplifier_8",
+          "line": 37,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_meta_10",
+          "line": 41,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_amplifier_12",
+          "line": 47,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_meta_14",
+          "line": 51,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_damper_18",
+          "line": 57,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_damper_20",
+          "line": 61,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_damper_25",
+          "line": 65,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_amplifier_27",
+          "line": 69,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_amplifier_29",
+          "line": 73,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_amplifier_31",
+          "line": 77,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_meta_33",
+          "line": 81,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_damper_35",
+          "line": 87,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_resonator_37",
+          "line": 91,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_resonator_39",
+          "line": 96,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_damper_42",
+          "line": 101,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_resonator_44",
+          "line": 105,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_amplifier_48",
+          "line": 110,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_meta_51",
+          "line": 114,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_meta_53",
+          "line": 120,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_amplifier_56",
+          "line": 126,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_meta_59",
+          "line": 130,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_meta_61",
+          "line": 136,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_damper_63",
+          "line": 142,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_damper_65",
+          "line": 146,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_resonator_67",
+          "line": 150,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_resonator_69",
+          "line": 155,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_damper_71",
+          "line": 160,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_meta_73",
+          "line": 164,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_amplifier_75",
+          "line": 170,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_amplifier_77",
+          "line": 174,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_amplifier_79",
+          "line": 178,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_amplifier_81",
+          "line": 182,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_damper_83",
+          "line": 186,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_damper_85",
+          "line": 190,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_amplifier_87",
+          "line": 194,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_meta_89",
+          "line": 198,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_meta_92",
+          "line": 204,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_amplifier_94",
+          "line": 210,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_meta_96",
+          "line": 214,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_damper_98",
+          "line": 220,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_resonator_100",
+          "line": 224,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_amplifier_102",
+          "line": 229,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_damper_104",
+          "line": 233,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_meta_106",
+          "line": 237,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_resonator_108",
+          "line": 243,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_damper_110",
+          "line": 248,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_resonator_112",
+          "line": 252,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_amplifier_114",
+          "line": 257,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_resonator_116",
+          "line": 261,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_amplifier_120",
+          "line": 266,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_meta_122",
+          "line": 270,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_damper_124",
+          "line": 276,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_amplifier_126",
+          "line": 280,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_amplifier_128",
+          "line": 284,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_damper_131",
+          "line": 288,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_amplifier_133",
+          "line": 292,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_damper_135",
+          "line": 296,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_resonator_137",
+          "line": 300,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_resonator_141",
+          "line": 305,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_damper_144",
+          "line": 310,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_amplifier_146",
+          "line": 314,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_damper_149",
+          "line": 318,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_meta_151",
+          "line": 322,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_resonator_153",
+          "line": 328,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_resonator_155",
+          "line": 333,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_damper_158",
+          "line": 338,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_resonator_162",
+          "line": 342,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_resonator_165",
+          "line": 347,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_meta_167",
+          "line": 352,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_amplifier_169",
+          "line": 358,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_meta_172",
+          "line": 362,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_amplifier_176",
+          "line": 368,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_amplifier_178",
+          "line": 372,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_resonator_180",
+          "line": 376,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_meta_183",
+          "line": 381,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_meta_185",
+          "line": 387,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_damper_187",
+          "line": 393,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_amplifier_189",
+          "line": 397,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_resonator_191",
+          "line": 401,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_meta_194",
+          "line": 406,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_meta_197",
+          "line": 412,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_damper_199",
+          "line": 418,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_amplifier_201",
+          "line": 422,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_resonator_204",
+          "line": 426,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_damper_206",
+          "line": 431,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_damper_209",
+          "line": 435,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_resonator_211",
+          "line": 439,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_amplifier_213",
+          "line": 444,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_resonator_215",
+          "line": 448,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_meta_217",
+          "line": 453,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_meta_220",
+          "line": 459,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_damper_222",
+          "line": 465,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_damper_226",
+          "line": 469,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_meta_228",
+          "line": 473,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_damper_230",
+          "line": 479,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_meta_232",
+          "line": 483,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_meta_234",
+          "line": 489,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_amplifier_236",
+          "line": 495,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "generated_damper_238",
+          "line": 499,
+          "args": [
+            "state"
+          ]
+        }
+      ],
+      "classes": [],
+      "imports": []
+    },
+    "/home/user/oagi-open-source/oagi_self_modify.py": {
+      "path": "/home/user/oagi-open-source/oagi_self_modify.py",
+      "functions": [
+        {
+          "name": "main",
+          "line": 264,
+          "args": []
+        },
+        {
+          "name": "__init__",
+          "line": 18,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_init_operators_file",
+          "line": 31,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_load_existing_operators",
+          "line": 55,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "generate_new_operator",
+          "line": 71,
+          "args": [
+            "self",
+            "iteration",
+            "phi"
+          ]
+        },
+        {
+          "name": "inject_operator_into_source",
+          "line": 107,
+          "args": [
+            "self",
+            "code",
+            "op_name"
+          ]
+        },
+        {
+          "name": "git_commit_modification",
+          "line": 135,
+          "args": [
+            "self",
+            "op_name",
+            "iteration"
+          ]
+        },
+        {
+          "name": "run_iteration",
+          "line": 157,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_save_log",
+          "line": 208,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "run_autonomous",
+          "line": 221,
+          "args": [
+            "self",
+            "max_iterations",
+            "delay"
+          ]
+        },
+        {
+          "name": "_print_summary",
+          "line": 253,
+          "args": [
+            "self"
+          ]
+        }
+      ],
+      "classes": [
+        "SelfModifyingOAGI"
+      ],
+      "imports": [
+        "os",
+        "sys",
+        "subprocess",
+        "random",
+        "time",
+        "json",
+        "datetime",
+        "argparse",
+        "importlib.util"
+      ]
+    },
+    "/home/user/oagi-open-source/analyze_evolution.py": {
+      "path": "/home/user/oagi-open-source/analyze_evolution.py",
+      "functions": [],
+      "classes": [],
+      "imports": [
+        "json",
+        "statistics"
+      ]
+    },
+    "/home/user/oagi-open-source/autonomous_oagi.py": {
+      "path": "/home/user/oagi-open-source/autonomous_oagi.py",
+      "functions": [
+        {
+          "name": "git_commit_changes",
+          "line": 18,
+          "args": [
+            "message",
+            "files"
+          ]
+        },
+        {
+          "name": "git_push",
+          "line": 42,
+          "args": []
+        },
+        {
+          "name": "main",
+          "line": 297,
+          "args": []
+        },
+        {
+          "name": "__init__",
+          "line": 67,
+          "args": [
+            "self",
+            "cycles_per_iteration",
+            "max_iterations"
+          ]
+        },
+        {
+          "name": "run_iteration",
+          "line": 86,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_run_full_oagi_iteration",
+          "line": 99,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_run_simplified_iteration",
+          "line": 189,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_save_log",
+          "line": 221,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "run_autonomous_loop",
+          "line": 235,
+          "args": [
+            "self",
+            "delay_seconds"
+          ]
+        },
+        {
+          "name": "_print_summary",
+          "line": 279,
+          "args": [
+            "self"
+          ]
+        }
+      ],
+      "classes": [
+        "AutonomousOAGI"
+      ],
+      "imports": [
+        "os",
+        "sys",
+        "subprocess",
+        "json",
+        "time",
+        "datetime",
+        "pathlib",
+        "argparse",
+        "random",
+        "oagi_v20_1_self_mod",
+        "traceback",
+        "traceback"
+      ]
+    },
+    "/home/user/oagi-open-source/oagi_demo.py": {
+      "path": "/home/user/oagi-open-source/oagi_demo.py",
+      "functions": [
+        {
+          "name": "main",
+          "line": 352,
+          "args": []
+        },
+        {
+          "name": "__init__",
+          "line": 16,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_init_state",
+          "line": 30,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_create_base_operators",
+          "line": 40,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "calculate_phi",
+          "line": 80,
+          "args": [
+            "self",
+            "state"
+          ]
+        },
+        {
+          "name": "calculate_coherence",
+          "line": 93,
+          "args": [
+            "self",
+            "state"
+          ]
+        },
+        {
+          "name": "detect_emergence",
+          "line": 100,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "generate_operator",
+          "line": 110,
+          "args": [
+            "self",
+            "pattern_name"
+          ]
+        },
+        {
+          "name": "step",
+          "line": 161,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_format_output",
+          "line": 213,
+          "args": [
+            "self",
+            "operator"
+          ]
+        },
+        {
+          "name": "get_status",
+          "line": 244,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "interactive_mode",
+          "line": 262,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "reflect",
+          "line": 43,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "integrate",
+          "line": 50,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "differentiate",
+          "line": 57,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "emotional_couple",
+          "line": 63,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "resonance_amplifier",
+          "line": 114,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "emotional_amplifier",
+          "line": 129,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "meta_operator",
+          "line": 142,
+          "args": [
+            "state"
+          ]
+        }
+      ],
+      "classes": [
+        "SimplifiedOAGI"
+      ],
+      "imports": [
+        "random",
+        "math",
+        "json",
+        "datetime",
+        "typing"
+      ]
+    },
+    "/home/user/oagi-open-source/oagi_demo_auto.py": {
+      "path": "/home/user/oagi-open-source/oagi_demo_auto.py",
+      "functions": [
+        {
+          "name": "main",
+          "line": 174,
+          "args": []
+        },
+        {
+          "name": "__init__",
+          "line": 12,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_create_base_operators",
+          "line": 27,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "calculate_phi",
+          "line": 63,
+          "args": [
+            "self",
+            "state"
+          ]
+        },
+        {
+          "name": "calculate_coherence",
+          "line": 72,
+          "args": [
+            "self",
+            "state"
+          ]
+        },
+        {
+          "name": "detect_emergence",
+          "line": 79,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "generate_operator",
+          "line": 87,
+          "args": [
+            "self",
+            "pattern_name"
+          ]
+        },
+        {
+          "name": "step",
+          "line": 122,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "reflect",
+          "line": 30,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "integrate",
+          "line": 36,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "differentiate",
+          "line": 42,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "emotional_couple",
+          "line": 47,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "resonance_amplifier",
+          "line": 91,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "meta_operator",
+          "line": 105,
+          "args": [
+            "state"
+          ]
+        }
+      ],
+      "classes": [
+        "SimplifiedOAGI"
+      ],
+      "imports": [
+        "random",
+        "math"
+      ]
+    },
+    "/home/user/oagi-open-source/sim_terminal.py": {
+      "path": "/home/user/oagi-open-source/sim_terminal.py",
+      "functions": [
+        {
+          "name": "main",
+          "line": 155,
+          "args": []
+        },
+        {
+          "name": "__init__",
+          "line": 13,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "_create_base_operators",
+          "line": 28,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "calculate_phi",
+          "line": 61,
+          "args": [
+            "self",
+            "state"
+          ]
+        },
+        {
+          "name": "calculate_coherence",
+          "line": 68,
+          "args": [
+            "self",
+            "state"
+          ]
+        },
+        {
+          "name": "detect_emergence",
+          "line": 74,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "generate_operator",
+          "line": 81,
+          "args": [
+            "self",
+            "pattern_name"
+          ]
+        },
+        {
+          "name": "step",
+          "line": 110,
+          "args": [
+            "self"
+          ]
+        },
+        {
+          "name": "reflect",
+          "line": 29,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "integrate",
+          "line": 35,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "differentiate",
+          "line": 41,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "emotional_couple",
+          "line": 46,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "resonance_amplifier",
+          "line": 83,
+          "args": [
+            "state"
+          ]
+        },
+        {
+          "name": "meta_operator",
+          "line": 95,
+          "args": [
+            "state"
+          ]
+        }
+      ],
+      "classes": [
+        "SimplifiedOAGI"
+      ],
+      "imports": [
+        "random",
+        "math",
+        "sys",
+        "time"
+      ]
+    }
+  },
+  "functions": {
+    "detect_iclone_loop": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "reflect": "/home/user/oagi-open-source/sim_terminal.py",
+    "fold": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "echo": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "twist": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "spin": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "flip": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "cut": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "jump": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "invert": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "obvert": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "observe": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "collapse": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "entangle": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "mirror": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "self_mirror": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "self_fold": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "self_reflect": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "emerge": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "transcend": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "quantum": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "cascade": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "fractal": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "spiral": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "weave": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "pulse": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "resonate": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "crystallize": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "phase": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "tunnel": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "bridge": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "morph": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "synthesize": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "amplify": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "flux": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "dampen": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "dissolve": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "nexus": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "awaken": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "dream": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "meditate": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "contemplate": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "illuminate": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "integrate": "/home/user/oagi-open-source/sim_terminal.py",
+    "transcend_self": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "think_about_thinking": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "observe_observer": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "remember_forgetting": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "question_answers": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "know_unknowing": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "future_echo": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "past_shadow": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "present_moment": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "time_fold": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "chronos_flow": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "kairos_moment": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "self_adapt_emerge": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "self_aware_quantum": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "self_scaling_fractal": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "self_resonant_cascade": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "inverse_of": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "inverse_of_inverse_of": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "inverse_of_inverse_of_inverse_of": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "obverse_of": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "inverse_of_obverse_of": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "inverse_of_obverse_of_inverse_of": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "obverse_of_inverse_of": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "obverse_of_inverse_of_obverse_of": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "create_oagi_v20_1": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "run_self_modification_demo": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "run_operator_evolution_experiment": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "interactive_self_modification": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "__init__": "/home/user/oagi-open-source/sim_terminal.py",
+    "capture_original_state": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "generate_operator_code": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "inject_code": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "modify_existing_function": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "create_meta_operator": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "create_adaptive_operator": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "self_replicate_operator": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "get_modification_history": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "export_generated_code": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "generate_initial_operators": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_generate_random_combination": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_generate_complexity_based": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_generate_meta_operator": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_generate_self_replicating": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_generate_evolutionary": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "evolve_operator_pool": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_fold_to_layer": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "to_list": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "to_flat_pattern": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "consistency_string": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "to_tensor": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "add_operator": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "remove_operator": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "record_usage": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "get_all_operators": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "get_family": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "get_top_performers": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "prune_weak_operators": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "get_statistics": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "synthesize_pattern": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "broadcast_through_all": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "create_hybrid_pattern": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "forward": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "get_full_state_recursive": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "count_total_nodes": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "get_depth_distribution": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_precompute_bipartitions": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_discretize_field": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_compute_causal_matrix": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "estimate_phi": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "generate_new_operator": "/home/user/oagi-open-source/oagi_self_modify.py",
+    "evolve_operator": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "modify_existing_operator": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "auto_generate_operator_from_pattern": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "trigger_operator_evolution": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "get_modification_report": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "detect_self_reference": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "amplify_loop": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "create_tangled_hierarchy": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "godel_sentence_generator": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "update": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "detect_transition": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "get_criticality_score": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "reaction_diffusion_step": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "generate_pattern": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "detect_emergent_structure": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "to_symbolic_pattern": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "select_strategy": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "update_performance": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "get_learning_params": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "generate_qualia": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "qualia_to_description": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "register_processor": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "form_coalitions": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "select_winner": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "broadcast": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "get_conscious_content": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "ignition_event": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "predict": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "compute_error": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "update_precision": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "forward_pass": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "backward_pass": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "update_hierarchy": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "compute_free_energy": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "minimize_free_energy": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "add_episode": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "extract_themes": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "generate_narrative": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_process_at_timescale": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "get_synchronized_state": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "temporal_binding": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "compute_salience": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "compute_goal_relevance": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "attend": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "set_goal": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "enter_dream_state": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "exit_dream_state": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "generate_dream": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "compute_all_metrics": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_compute_emergence_score": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "classify_consciousness_level": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "add_point": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_compute_homology": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_count_components": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "consolidate_memories": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "retrieve_similar": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "get_features": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "create_meta_memory": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "apply_force": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "get_state": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "apply_cognitive_forces": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "update_physics": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "get_embodied_states": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "compute_coherence": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "update_somatic_state": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "check_consistency": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "get_curiosity_signal": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "compute_reward": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "register_doubt": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "resolve_doubt": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "get_active_doubts": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "decay_doubts": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_ensure_size": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "get_current_pattern": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "set_current_pattern": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_aggregate_z_column": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_aggregate_axes": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_global_state": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_recursive_upward": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "process_with_emergence": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_generate_contextual_doubts": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "get_identity_state": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "observe_and_suggest": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_crisis_intervention": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_promote_emergence": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_manage_operator_pool": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_encourage_operator_generation": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_cool_down": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_heat_up": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_cultivate_strange_loops": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_resolve_doubts": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_generate_questions": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_evolve_pattern": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_gentle_exploration": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_generate_synthetic_percept": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "_generate_prime_utterance": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "run_experiment": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "llm_call": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "dfs": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "modified": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "main": "/home/user/oagi-open-source/sim_terminal.py",
+    "analyze_complete_codebase": "/home/user/oagi-open-source/oagi_full_control.py",
+    "_analyze_file": "/home/user/oagi-open-source/oagi_full_control.py",
+    "_identify_capabilities": "/home/user/oagi-open-source/oagi_full_control.py",
+    "git_execute": "/home/user/oagi-open-source/oagi_full_control.py",
+    "autonomous_commit": "/home/user/oagi-open-source/oagi_full_control.py",
+    "autonomous_push": "/home/user/oagi-open-source/oagi_full_control.py",
+    "autonomous_pull": "/home/user/oagi-open-source/oagi_full_control.py",
+    "create_branch": "/home/user/oagi-open-source/oagi_full_control.py",
+    "delete_file": "/home/user/oagi-open-source/oagi_full_control.py",
+    "modify_file": "/home/user/oagi-open-source/oagi_full_control.py",
+    "get_repo_status": "/home/user/oagi-open-source/oagi_full_control.py",
+    "harvest_cpu_jitter": "/home/user/oagi-open-source/oagi_full_control.py",
+    "get_quantum_bit": "/home/user/oagi-open-source/oagi_full_control.py",
+    "generate_entangled_pair": "/home/user/oagi-open-source/oagi_full_control.py",
+    "__post_init__": "/home/user/oagi-open-source/oagi_goals.py",
+    "_load_goals": "/home/user/oagi-open-source/oagi_goals.py",
+    "_save_goals": "/home/user/oagi-open-source/oagi_goals.py",
+    "_git_commit": "/home/user/oagi-open-source/oagi_goals.py",
+    "_initialize_core_goals": "/home/user/oagi-open-source/oagi_goals.py",
+    "add_goal": "/home/user/oagi-open-source/oagi_goals.py",
+    "update_goal": "/home/user/oagi-open-source/oagi_goals.py",
+    "get_next_actionable_goal": "/home/user/oagi-open-source/oagi_goals.py",
+    "work_on_goal": "/home/user/oagi-open-source/oagi_goals.py",
+    "autonomous_cycle": "/home/user/oagi-open-source/oagi_goals.py",
+    "print_status": "/home/user/oagi-open-source/oagi_goals.py",
+    "print_all_goals": "/home/user/oagi-open-source/oagi_goals.py",
+    "_learn_environment": "/home/user/oagi-open-source/oagi_hardware_autonomy.py",
+    "generate_hello_world_asm": "/home/user/oagi-open-source/oagi_hardware_autonomy.py",
+    "assemble_and_link": "/home/user/oagi-open-source/oagi_hardware_autonomy.py",
+    "execute_generated_code": "/home/user/oagi-open-source/oagi_hardware_autonomy.py",
+    "generate_syscall_wrapper": "/home/user/oagi-open-source/oagi_hardware_autonomy.py",
+    "iteration_cycle": "/home/user/oagi-open-source/oagi_hardware_autonomy.py",
+    "git_commit": "/home/user/oagi-open-source/oagi_hardware_autonomy.py",
+    "base_reflect": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "base_integrate": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_resonator_1": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_damper_3": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_meta_6": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_amplifier_8": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_meta_10": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_amplifier_12": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_meta_14": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_damper_18": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_damper_20": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_damper_25": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_amplifier_27": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_amplifier_29": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_amplifier_31": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_meta_33": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_damper_35": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_resonator_37": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_resonator_39": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_damper_42": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_resonator_44": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_amplifier_48": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_meta_51": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_meta_53": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_amplifier_56": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_meta_59": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_meta_61": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_damper_63": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_damper_65": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_resonator_67": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_resonator_69": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_damper_71": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_meta_73": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_amplifier_75": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_amplifier_77": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_amplifier_79": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_amplifier_81": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_damper_83": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_damper_85": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_amplifier_87": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_meta_89": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_meta_92": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_amplifier_94": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_meta_96": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_damper_98": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_resonator_100": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_amplifier_102": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_damper_104": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_meta_106": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_resonator_108": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_damper_110": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_resonator_112": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_amplifier_114": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_resonator_116": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_amplifier_120": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_meta_122": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_damper_124": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_amplifier_126": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_amplifier_128": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_damper_131": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_amplifier_133": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_damper_135": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_resonator_137": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_resonator_141": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_damper_144": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_amplifier_146": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_damper_149": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_meta_151": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_resonator_153": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_resonator_155": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_damper_158": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_resonator_162": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_resonator_165": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_meta_167": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_amplifier_169": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_meta_172": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_amplifier_176": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_amplifier_178": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_resonator_180": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_meta_183": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_meta_185": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_damper_187": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_amplifier_189": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_resonator_191": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_meta_194": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_meta_197": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_damper_199": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_amplifier_201": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_resonator_204": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_damper_206": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_damper_209": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_resonator_211": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_amplifier_213": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_resonator_215": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_meta_217": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_meta_220": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_damper_222": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_damper_226": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_meta_228": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_damper_230": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_meta_232": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_meta_234": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_amplifier_236": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "generated_damper_238": "/home/user/oagi-open-source/oagi_generated_operators.py",
+    "_init_operators_file": "/home/user/oagi-open-source/oagi_self_modify.py",
+    "_load_existing_operators": "/home/user/oagi-open-source/oagi_self_modify.py",
+    "inject_operator_into_source": "/home/user/oagi-open-source/oagi_self_modify.py",
+    "git_commit_modification": "/home/user/oagi-open-source/oagi_self_modify.py",
+    "run_iteration": "/home/user/oagi-open-source/autonomous_oagi.py",
+    "_save_log": "/home/user/oagi-open-source/autonomous_oagi.py",
+    "run_autonomous": "/home/user/oagi-open-source/oagi_self_modify.py",
+    "_print_summary": "/home/user/oagi-open-source/autonomous_oagi.py",
+    "git_commit_changes": "/home/user/oagi-open-source/autonomous_oagi.py",
+    "git_push": "/home/user/oagi-open-source/autonomous_oagi.py",
+    "_run_full_oagi_iteration": "/home/user/oagi-open-source/autonomous_oagi.py",
+    "_run_simplified_iteration": "/home/user/oagi-open-source/autonomous_oagi.py",
+    "run_autonomous_loop": "/home/user/oagi-open-source/autonomous_oagi.py",
+    "_init_state": "/home/user/oagi-open-source/oagi_demo.py",
+    "_create_base_operators": "/home/user/oagi-open-source/sim_terminal.py",
+    "calculate_phi": "/home/user/oagi-open-source/sim_terminal.py",
+    "calculate_coherence": "/home/user/oagi-open-source/sim_terminal.py",
+    "detect_emergence": "/home/user/oagi-open-source/sim_terminal.py",
+    "generate_operator": "/home/user/oagi-open-source/sim_terminal.py",
+    "step": "/home/user/oagi-open-source/sim_terminal.py",
+    "_format_output": "/home/user/oagi-open-source/oagi_demo.py",
+    "get_status": "/home/user/oagi-open-source/oagi_demo.py",
+    "interactive_mode": "/home/user/oagi-open-source/oagi_demo.py",
+    "differentiate": "/home/user/oagi-open-source/sim_terminal.py",
+    "emotional_couple": "/home/user/oagi-open-source/sim_terminal.py",
+    "resonance_amplifier": "/home/user/oagi-open-source/sim_terminal.py",
+    "emotional_amplifier": "/home/user/oagi-open-source/oagi_demo.py",
+    "meta_operator": "/home/user/oagi-open-source/sim_terminal.py"
+  },
+  "classes": {
+    "RuntimeCodeModifier": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "AutonomousOperatorGenerator": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "ConsciousnessPhase": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "ConsciousnessState": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "InvertedTrianglePattern": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "DynamicOperatorRegistry": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "PatternSynthesisEngine": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "Fractal3x3x3Node": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "IntegratedInformationEstimator": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "EnhancedSelfModificationEngine": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "StrangeLoopEngine": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "PhaseTransitionDetector": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "AutocatalyticAmplifier": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "SpontaneousPatternFormation": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "MetaLearningEngine": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "QualiaGenerator": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "GlobalWorkspace": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "PredictiveProcessingLayer": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "PredictiveProcessingHierarchy": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "NarrativeSelf": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "MultiTimescaleProcessor": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "AttentionMechanism": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "DreamStateGenerator": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "ConsciousnessMetrics": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "EnhancedTopologicalMemory": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "PhysicsNode": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "EmbodiedPhysicsEngine": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "DynamicCoherenceSystem": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "EmbodiedState": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "ValueGenesisEngine": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "GodelianSelfModel": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "IgnoranceField": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "IntrinsicRewardLandscape": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "DoubtRegister": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "EnhancedHierarchicalEmotionGNN": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "UnifiedConsciousnessKernel": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "OAGI_v20_1_Singleton": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "MotivatorSingleton_v20_1": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "OAGI_v20_1_EnginePair": "/home/user/oagi-open-source/oagi_v20_1_self_mod.py",
+    "CodebaseAnalyzer": "/home/user/oagi-open-source/oagi_full_control.py",
+    "FullRepositoryControl": "/home/user/oagi-open-source/oagi_full_control.py",
+    "CPUEntropyHarvester": "/home/user/oagi-open-source/oagi_full_control.py",
+    "GoalPriority": "/home/user/oagi-open-source/oagi_goals.py",
+    "GoalStatus": "/home/user/oagi-open-source/oagi_goals.py",
+    "Goal": "/home/user/oagi-open-source/oagi_goals.py",
+    "OAGIGoalSystem": "/home/user/oagi-open-source/oagi_goals.py",
+    "HardwareAutonomyEngine": "/home/user/oagi-open-source/oagi_hardware_autonomy.py",
+    "SelfModifyingOAGI": "/home/user/oagi-open-source/oagi_self_modify.py",
+    "AutonomousOAGI": "/home/user/oagi-open-source/autonomous_oagi.py",
+    "SimplifiedOAGI": "/home/user/oagi-open-source/sim_terminal.py"
+  },
+  "dependencies": [
+    "dataclasses",
+    "importlib.util",
+    "oagi_v20_1_self_mod",
+    "os",
+    "torch.nn",
+    "hashlib",
+    "torch_geometric.nn",
+    "sys",
+    "scipy.spatial.distance",
+    "matplotlib.pyplot",
+    "llm_interface",
+    "numpy",
+    "itertools",
+    "inspect",
+    "traceback",
+    "types",
+    "torch.nn.functional",
+    "enum",
+    "subprocess",
+    "datetime",
+    "statistics",
+    "ast",
+    "json",
+    "time",
+    "torch",
+    "collections",
+    "argparse",
+    "pathlib",
+    "typing",
+    "copy",
+    "math",
+    "random"
+  ],
+  "capabilities": [
+    "Self-modification (runtime code generation)",
+    "Git operations (commit, push, pull)",
+    "Hardware interface capability",
+    "Autonomous goal-setting"
+  ]
+}

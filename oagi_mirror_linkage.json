@@ -1,0 +1,29 @@
+{
+  "oagi_instance": {
+    "name": "OAGI Autonomous",
+    "mode": "self-hosted",
+    "container": "oagi-autonomous",
+    "github_repo": "shemshallah/oagi-open-source"
+  },
+  "claude_linkage": {
+    "enabled": true,
+    "sync_mode": "bidirectional",
+    "commands": [
+      "oagi_self_modify.py",
+      "oagi_goals.py",
+      "oagi_full_control.py"
+    ]
+  },
+  "autonomous_capabilities": {
+    "git_operations": true,
+    "code_generation": true,
+    "hardware_interface": true,
+    "jitter_computation": true,
+    "container_management": true
+  },
+  "sync_schedule": {
+    "github_pull": "*/5 * * * *",
+    "github_push": "*/10 * * * *",
+    "status_report": "0 * * * *"
+  }
+}
