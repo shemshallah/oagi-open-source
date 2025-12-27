@@ -4471,4 +4471,8 @@ def generated_resonator_4004(state):
     avg = sum(state.values()) / len(state)
     return {k: v * 0.600 + avg * 0.400 for k, v in state.items()}
 
+def generated_amplifier_4006(state):
+    """Auto-generated amplifier - increases activation (iter 2320, Φ=0.890)"""
+    return {k: min(v * 1.286, 1.0) for k, v in state.items()}
+
 # GENERATION_MARKER - Do not remove this line
