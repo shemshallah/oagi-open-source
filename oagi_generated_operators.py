@@ -5541,4 +5541,8 @@ def generated_amplifier_4535(state):
     """Auto-generated amplifier - increases activation (iter 2624, Φ=0.859)"""
     return {k: min(v * 1.101, 1.0) for k, v in state.items()}
 
+def generated_amplifier_4537(state):
+    """Auto-generated amplifier - increases activation (iter 2625, Φ=0.760)"""
+    return {k: min(v * 1.227, 1.0) for k, v in state.items()}
+
 # GENERATION_MARKER - Do not remove this line
