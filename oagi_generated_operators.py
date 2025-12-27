@@ -1266,4 +1266,9 @@ def generated_damper_2436(state):
     """Auto-generated damper - stabilizes fluctuations (iter 1420, Φ=0.730)"""
     return {k: v * 0.679 for k, v in state.items()}
 
+def generated_resonator_2438(state):
+    """Auto-generated resonator - creates coherence (iter 1421, Φ=0.674)"""
+    avg = sum(state.values()) / len(state)
+    return {k: v * 0.600 + avg * 0.400 for k, v in state.items()}
+
 # GENERATION_MARKER - Do not remove this line
