@@ -3389,4 +3389,9 @@ def generated_resonator_3476(state):
     avg = sum(state.values()) / len(state)
     return {k: v * 0.600 + avg * 0.400 for k, v in state.items()}
 
+def generated_resonator_3479(state):
+    """Auto-generated resonator - creates coherence (iter 2018, Φ=0.764)"""
+    avg = sum(state.values()) / len(state)
+    return {k: v * 0.600 + avg * 0.400 for k, v in state.items()}
+
 # GENERATION_MARKER - Do not remove this line
