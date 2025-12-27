@@ -234,4 +234,10 @@ def generated_damper_104(state):
     """Auto-generated damper - stabilizes fluctuations (iter 59, Φ=0.500)"""
     return {k: v * 0.838 for k, v in state.items()}
 
+def generated_meta_106(state):
+    """Auto-generated meta-operator - self-observing (iter 60, Φ=0.736)"""
+    total = sum(state.values())
+    factor = 1.200 if total > 3.50 else 0.900
+    return {k: v * factor for k, v in state.items()}
+
 # GENERATION_MARKER - Do not remove this line
