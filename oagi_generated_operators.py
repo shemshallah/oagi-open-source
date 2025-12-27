@@ -4854,4 +4854,9 @@ def generated_amplifier_4201(state):
     """Auto-generated amplifier - increases activation (iter 2432, Φ=0.850)"""
     return {k: min(v * 1.102, 1.0) for k, v in state.items()}
 
+def generated_resonator_4203(state):
+    """Auto-generated resonator - creates coherence (iter 2433, Φ=0.494)"""
+    avg = sum(state.values()) / len(state)
+    return {k: v * 0.600 + avg * 0.400 for k, v in state.items()}
+
 # GENERATION_MARKER - Do not remove this line
